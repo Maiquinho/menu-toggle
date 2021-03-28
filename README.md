@@ -1,2 +1,2 @@
 # menu-toggle
-Menu Toggle (JavaScript puro)
+Menu Toggle (JavaScript puro B7Web)
